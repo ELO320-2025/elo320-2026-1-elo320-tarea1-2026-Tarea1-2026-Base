@@ -2,7 +2,7 @@
 
 Nombre: XX YY
 
-El texto a continuación ejemplifica cómo usar markdown. Por lo tanto, **se espera que lo borren antes de entregar, ya que acá debería ir el reporte**
+El texto a continuación ejemplifica cómo usar markdown (el formato que usamos en los read me). Por lo tanto, **se espera que lo borren antes de entregar, ya que acá debería ir el reporte**. Pueden usar páginas adicionales a esta, pero deben ser en formato markdown (.md) y deberán ser referenciados dentro de este archivo.
 ## Elementos básicos de Markdown
 
 ### Títulos
@@ -183,3 +183,8 @@ Markdown puro no soporta tamaño de imagen, pero puedes usar HTML:
 
 - [Guía oficial de Markdown en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Editor online de Markdown](https://dillinger.io/)
+
+
+## Declaración de uso de IA
+
+En caso de haber utilizado algún modelo de lenguaje dentro del desarrollo de la tarea, no olvides que debes declararlo acá e incluir para qué se utilizaron, el/los modelos utilizados y los prompts.
