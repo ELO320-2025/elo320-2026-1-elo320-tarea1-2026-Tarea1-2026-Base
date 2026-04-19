@@ -58,7 +58,7 @@ Tiempo de proceso: 0.0452 segundos
 
 ANÁLISIS HABITACIONAL
 Total Hogares: 29
-Índice de Gini (Hacinamiento): 0.33
+Índice de Disparidad (Gini): 0.38
 Entropía de Shannon (Vivienda): 1.69 bits
 Cobertura Total Servicios: 62.1%
 
