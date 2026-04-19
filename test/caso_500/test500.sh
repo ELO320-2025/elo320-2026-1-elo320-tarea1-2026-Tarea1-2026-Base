@@ -16,6 +16,7 @@ gcc -o censo_2026 main.c -lm
 2
 1
 501
+Valparaiso
 Av_Espana_1680
 2
 7

@@ -17,6 +17,7 @@ Seleccione una opción: 1
 
 [REGISTRO DE HOGAR]
 Ingrese ID del hogar: 501
+Ingrese nombre de la Localidad: Valparaiso
 Ingrese dirección: Av_Espana_1680
 Ingrese tipo de vivienda (1:Casa, 2: Depto, 3: Pieza, 4:Otro): 2
 Ingrese servicios (Suma 1: Luz, 2: Agua, 4: Internet): 7
@@ -56,18 +57,26 @@ Estructura utilizada: Listas Enlazadas
 Tiempo de proceso: 0.0452 segundos
 
 ANÁLISIS HABITACIONAL
-Total Hogares: 28
+Total Hogares: 29
 Índice de Gini (Hacinamiento): 0.33
 Entropía de Shannon (Vivienda): 1.69 bits
-Cobertura Total Servicios: 60.7%
+Cobertura Total Servicios: 62.1%
 
 ANÁLISIS SOCIOECONÓMICO
-Promedio Ingreso Per Cápita Hogar: $695.811
-Edad Promedio Jefes de Hogar: 40.8 años
-Desviación Estándar Edad Jefes: 16.2
+Promedio Ingreso Per Cápita Hogar: $735.611
+Edad Promedio Jefes de Hogar: 40.0 años
+Desviación Estándar Edad Jefes: 16.4
 
 DISTRIBUCIÓN EDUCACIONAL (Jefes de Hogar)
-Básica: 7% | Media: 25% | Técnica: 21% | Univ: 32% | Post: 14%
+Básica: 7% | Media: 24% | Técnica: 21% | Univ: 31% | Post: 17%
+
+DISTRIBUCIÓN EDUCACIONAL POR RANGO ETARIO (Todos los Habitantes)
+Nivel          0-18   19-25   26-35   36-45   46-55   56-65     66+
+Básica            2       1       4       2       5       2       4
+Media             8       1       7       7       7       5       3
+Técnica           0       5       2       1       7       2       3
+Univ              2       3       5       2       3       1       2
+Post              0       1       0       2       1       0       1
 
 MENÚ PRINCIPAL
 1. Registrar nuevo hogar y habitantes
